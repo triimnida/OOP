@@ -1,3 +1,8 @@
+<p align="center">
+<img src="[https://giphy.com/gifs/frog-fric-dric-elPt1FL04JjHjrd2k0](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGducWM2dWxuNnA0b3F0cnVvODlzbjIydzh0cGM5Z2R5ZWxpZW14YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elPt1FL04JjHjrd2k0/giphy.gif)" />
+</p>
+
+
 # 🌟 Welcome to My 7OOP Lab Task Repository 🌟
 ---
 ## 👨‍💻 About Me
