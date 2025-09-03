@@ -18,11 +18,18 @@ Hi! I’m James Mesa, a student currently learning Object-Oriented Programming (
 - I love solving coding challenges 🚀  
 - Big fan of coffee ☕  
 - I enjoy playing video games 🎮  
-- Always curious to learn new tech 📚  
+- Always curious to learn new tech 📚
+- In love with a ho ❤ 
 ---
 ## 📬 Contact Me
 - Facebook: https://www.facebook.com/share/1EP4L7dv82/
 - GitHub: https://github.com/triimnida
 - Email: jx.mesa1@gmail.com
 ---
+## 🎓 Educational Background
+- City College of Angeles 2024-2028
+- Angeles City National Trade School SHS 2022-2024
+- Angeles City National Trade School HS 2018-2022
+---
+## 
 ✨ Thanks for visiting my repository! ✨
