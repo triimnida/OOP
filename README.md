@@ -36,5 +36,12 @@ Hi! I’m James Mesa, a student currently learning Object-Oriented Programming (
 - Angeles City National Trade School SHS 2022-2024
 - Angeles City National Trade School HS 2018-2022
 ---
-## 
+## 7OOP Activities 
+- https://docs.google.com/document/d/1h7yx2SiMZvuYLXZyC3OJwzQUBGpzlJLbd__sYTG4kjA/edit?pli=1&tab=t.0
+- https://docs.google.com/document/d/1W2sTfEoxuedim6vJbx40YObDA5xCsIeqVcceCS5UE4w/edit?tab=t.0
+- https://docs.google.com/document/d/1gJ8Lf41dMVqsSa5lRnVCmGk_WUH9YxRZ2NzxDRrxpHI/edit?tab=t.0
+- https://docs.google.com/document/d/16gpt9opP56Z4-RFqrlFS1n8rLApcTl-_hNLj-TTTWQc/edit?tab=t.0
+- https://docs.google.com/document/d/1EZ278Eg5DpYHj-lMx5W1u4rIfbik6Wiitxhiwwka3pI/edit?tab=t.0
+- https://docs.google.com/document/d/1bXTCg7qdtPYN-D1cm7BTO_8GcAz82qORjnxIbkY9Uuo/edit?tab=t.0
+   
 ✨ Thanks for visiting my repository! ✨
