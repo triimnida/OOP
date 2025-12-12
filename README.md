@@ -31,5 +31,12 @@ Hi! I’m James Mesa, a student currently learning Object-Oriented Programming (
 - https://docs.google.com/document/d/16gpt9opP56Z4-RFqrlFS1n8rLApcTl-_hNLj-TTTWQc/edit?tab=t.0
 - https://docs.google.com/document/d/1EZ278Eg5DpYHj-lMx5W1u4rIfbik6Wiitxhiwwka3pI/edit?tab=t.0
 - https://docs.google.com/document/d/1bXTCg7qdtPYN-D1cm7BTO_8GcAz82qORjnxIbkY9Uuo/edit?tab=t.0
-   
+
+## 7OOP Finals Activities
+- https://drive.google.com/file/d/1D9YKgJT5gLUiWATaqp4RklK3TYX--3Rb/view?usp=classroom_web&authuser=0
+- https://drive.google.com/file/d/1H3Q1ggqL8H4KEZsVdiKTGmVg97ZbBLh0/view?usp=classroom_web&authuser=0
+- https://drive.google.com/file/d/1d2DVZqQ0gXZO1Iwd1BOXkTF4VojDqNU8/view?usp=classroom_web&authuser=0
+- https://drive.google.com/file/d/1dbLeD_-3hDLWx3AabG1BMkEyUAM9Vj1s/view?usp=classroom_web&authuser=0
+- https://drive.google.com/file/d/1LPTS1GC2J137ZzsnjpIIi-N9STULH-OV/view?usp=classroom_web&authuser=0
+  
 ✨ Thanks for visiting my repository! ✨
